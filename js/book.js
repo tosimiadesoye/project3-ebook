@@ -1,4 +1,5 @@
-[ {
+let books;
+export default books = [ {
     "name": "Children Of Blood And Bone",
     "author": "by Tomi Adeyemi",
     "price": "£6.55",
